@@ -1,0 +1,7 @@
+{
+  "name": "SME ERP & Workflow Management System",
+  "description": "Role-based ERP system for SMEs integrating Sales, Purchasing, Inventory, Manager Approvals, and Profit & Loss Analytics with automated cross-module workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
